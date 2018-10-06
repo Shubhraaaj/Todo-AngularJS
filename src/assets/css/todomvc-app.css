@@ -52,7 +52,7 @@ body {
 .todoapp input::-webkit-input-placeholder {
 	font-style: italic;
 	font-weight: 300;
-	color: #4caf50;
+	color: #e6e6e6;
 }
 
 .todoapp input::-moz-placeholder {
@@ -74,7 +74,7 @@ body {
 	font-size: 100px;
 	font-weight: 100;
 	text-align: center;
-	color: rgb(21, 191, 147);
+	color: rgba(175, 47, 47, 0.15);
 	-webkit-text-rendering: optimizeLegibility;
 	-moz-text-rendering: optimizeLegibility;
 	text-rendering: optimizeLegibility;
